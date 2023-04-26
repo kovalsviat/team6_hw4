@@ -46,8 +46,8 @@ import pandas as pd
 import requests
 from flask import Flask, jsonify, request
 
-API_KEY = "V8J7UYNGWSQ65E3KGUDZ4YKF4"
-API_TOKEN = 'alarm_predict'
+API_KEY = ""
+API_TOKEN = ''
 DIR_REGIONS = 'raw_data/regions.csv'
 SAVED_FORCASTS = 'saved_weather'
 
