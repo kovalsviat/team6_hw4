@@ -52,8 +52,8 @@ DIR_REGIONS = 'raw_data/regions.csv'
 SAVED_FORCASTS = 'saved_weather'
 
 
-# OUTPUT_FOLDER = "/Users/bober/Desktop/study/naukma/prog/SHIIIIIIIIIIIIIIIIT"
-# INPUT_DATA_FOLDER = '/Users/bober/Desktop/study/naukma/prog/SHIIIIIIIIIIIIIIIIT'
+# OUTPUT_FOLDER = "/Users/bober/Desktop/study/naukma/prog/"
+# INPUT_DATA_FOLDER = '/Users/bober/Desktop/study/naukma/prog/'
 # OUTPUT_FOLDER_CSV = '/Users/bober/Desktop/study/naukma/prog/info_for_prediction'
 # OUTPUT_DATA_FILE_CSV = '0_predicted_isw'
 # INPUT_FOLDER_ML = '/Users/bober/Desktop/study/naukma/prog/models'
